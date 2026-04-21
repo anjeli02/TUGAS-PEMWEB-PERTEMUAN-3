@@ -20,12 +20,24 @@ Berikut adalah hasil akhir dari Form Login dan Registrasi:
 ![Register Form](./screenshots/register.png)
 
 ### 3. Error Login
-![Error Gagal]()
+![Error Gagal](./screenshots/errorlogin.png)
+
+### 4. Error Register
+![Error Gagal](./screenshots/errorregister.png)
+
+### 5. Dropdown
+![Dropdown](./screenshots/dropdown.png)
+
+### 6. Loading
+![Loading](./screenshots/loading.png)
+
+### 7. Inspect
+![Inspect](./screenshots/inspect.png)
 
 
 
 ## 🔗 Link Pengumpulan
-- **Repository GitHub**: []
-- **Live Deployment (Vercel)**: []
+- **Repository GitHub**: [https://github.com/anjeli02/TUGAS-PEMWEB-PERTEMUAN-3.git]
+- **Live Deployment (Vercel)**: [https://tugaspemwebpertemuan3.vercel.app/]
 
 ---
