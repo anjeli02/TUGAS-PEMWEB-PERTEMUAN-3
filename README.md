@@ -37,6 +37,8 @@ Berikut adalah hasil akhir dari Form Login dan Registrasi:
 ### 8. Inspect
 ![Inspect](./screenshots/inspect.png)
 
+### 9. UI Show and Hide Password
+![UI](./screenshots/uishow.png)
 
 
 ## 🔗 Link Pengumpulan
