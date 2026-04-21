@@ -28,10 +28,13 @@ Berikut adalah hasil akhir dari Form Login dan Registrasi:
 ### 5. Dropdown
 ![Dropdown](./screenshots/dropdown.png)
 
-### 6. Loading
+### 6. Loading Login
 ![Loading](./screenshots/loading.png)
 
-### 7. Inspect
+### 7. Loading Register
+![Loading](./screenshots/loadingregis.png)
+
+### 8. Inspect
 ![Inspect](./screenshots/inspect.png)
 
 
